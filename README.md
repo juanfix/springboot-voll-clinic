@@ -13,7 +13,7 @@ Voll Clinic es un caso de estudio desarrollado durante el bootcamp de backend de
 
 ## Documentación
 
-Pues ver la documentación del proyecto [aquí](src/main/java/com/example/vollclinic/docs/APIDocumentation.pdf).
+Pues ver la documentación del proyecto [aquí](src/main/java/com/vollclinic/docs/APIDocumentation.pdf).
 
 Como alternativa, puedes usar el siguiente enlace cuando la aplicación esta en ejecución: http://localhost:8080/docs
 
